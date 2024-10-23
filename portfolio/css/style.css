@@ -1,0 +1,27 @@
+img {
+    width: 200px;
+    height: 200px;
+    border-radius: 40%;
+}
+h1 {
+    color: rgb(98, 196, 127);
+}
+
+p {
+    color: rgb(67, 86, 62);
+}
+
+ul {
+    list-style: none;
+    align-items: center;
+}
+body {
+    background-color: rgb(136, 126, 113);
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+    
+}
+html {
+    background-color: rgb(18, 36, 17);
+}
